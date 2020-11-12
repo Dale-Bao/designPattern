@@ -11,6 +11,7 @@
     <modules>
         <module>factoryPattern</module>
         <module>builderFactoty</module>
+        <module>prototypeDesign</module>
     </modules>
 
     <!--  <modules>
