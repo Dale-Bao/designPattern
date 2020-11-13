@@ -9,12 +9,12 @@ import java.util.Map;
  *         Description:
  */
 @Data
-public class ChoicQuestion {
+public class ChoiceQuestion {
     private String name;
     private Map<String,String> option;
     private String key;
 
-    public ChoicQuestion(String name,Map<String,String> option,String key){
+    public ChoiceQuestion(String name,Map<String,String> option,String key){
         this.name = name;
         this.option = option;
         this.key = key;
