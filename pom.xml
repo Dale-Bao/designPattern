@@ -12,6 +12,9 @@
         <module>factoryPattern</module>
         <module>builderFactoty</module>
         <module>prototypeDesign</module>
+        <module>adapter</module>
+        <module>bridgepattern</module>
+        <module>compositePattern</module>
     </modules>
 
     <!--  <modules>
